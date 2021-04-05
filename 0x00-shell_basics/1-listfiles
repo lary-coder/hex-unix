@@ -1,2 +1,2 @@
 #!/bin/bash
-$ ./1-listfiles
+./1-listfiles
